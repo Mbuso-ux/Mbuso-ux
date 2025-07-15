@@ -78,7 +78,7 @@ Relevant Coursework: Software Engineering, Database Systems, Mobile App Developm
     <img src="https://img.shields.io/badge/LinkedIn-2867B2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://github.com/your-username" target="_blank">
+  <a href="https://github.com/Mbuso-ux" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
