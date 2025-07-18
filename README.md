@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="your_banner_image_url_here" alt="Mbuso Khoza Banner" width="100%" />
+  <img src="https://github.com/Mbuso-ux/Mbuso-ux/blob/main/images/banner.jpg" alt="Mbuso Khoza Banner" width="100%" />
 </p>
 
 # Hi there, I'm Mbuso! 👋
@@ -40,7 +40,7 @@ I'm a final‑year **Bachelor of Information and Communications Technology** stu
 
 ### 🌟 Peer‑to‑Peer Tutoring Mobile App  
 <p align="center">
-  <img src="project1_screenshot_url" alt="Tutoring App" width="60%" />
+  <img src="https://github.com/Mbuso-ux/Mbuso-ux/blob/main/images/Peer-to-tutoring.avif" alt="Tutoring App" width="60%" />
 </p>
 A native Android app that connects students for peer tutoring in real time. Features:
 - **Tech:** Android Studio • Java • XML • Firebase Auth & Firestore • Gemini AI Chatbot  
@@ -52,13 +52,13 @@ A native Android app that connects students for peer tutoring in real time. Feat
 
 ### 🌟 DUT Voting System (Flask Web App)  
 <p align="center">
-  <img src="project2_screenshot_url" alt="Voting System" width="60%" />
+  <img src="https://github.com/Mbuso-ux/Mbuso-ux/blob/main/images/Voting-system.jpg" alt="Voting System" width="60%" />
 </p>
 A secure online voting platform for university elections, fully deployed on Render. Features:
 - **Tech:** Flask • Python • JavaScript • HTML/CSS • SQLite  
 - Student authentication, vote casting, and admin dashboards  
 - NLP‑powered analytics for voting trends (in progress)  
-- **Live Demo:** [render.com/your‑voting‑app](project_2_link)  
+- **Live Demo:** https://election-gr41.onrender.com
 - **Repo:** [github.com/your‑username/dut-voting-system](project_2_repository_link)
 
 ---
@@ -66,7 +66,7 @@ A secure online voting platform for university elections, fully deployed on Rend
 ## 🎓 Education
 
 **Bachelor of Information & Communications Technology**  
-Durban University of Technology (DUT) — *Expected Dec 2025*  
+Durban University of Technology (DUT) — *Expected May 2025*  
 Relevant Coursework: Software Engineering, Database Systems, Mobile App Development, Web Technologies
 
 ---
