@@ -46,7 +46,7 @@ A native Android app that connects students for peer tutoring in real time. Feat
 - **Tech:** Android Studio • Java • XML • Firebase Auth & Firestore • Gemini AI Chatbot  
 - Secure user registration and real‑time chat  
 - AI‑powered chatbot assistance for study queries  
-- **Repo:** [github.com/your‑username/peer-tutoring-app](project_1_repository_link)
+- **Repo:**  [github.com/your‑username/peer-tutoring-app](project_1_repository_link)
 
 ---
 
