@@ -88,7 +88,3 @@ Relevant Coursework: Software Engineering, Database Systems, Mobile App Developm
 </p>
 
 ---
-
-<p align="center">
-  Made with ❤️ by Mbuso Khoza
-</p>
