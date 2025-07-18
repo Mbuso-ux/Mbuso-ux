@@ -40,7 +40,7 @@ I'm a final‑year **Bachelor of Information and Communications Technology** stu
 
 ### 🌟 Peer‑to‑Peer Tutoring Mobile App  
 <p align="center">
-  <img src="https://github.com/Mbuso-ux/Mbuso-ux/blob/main/images/Peer-to-tutoring.avif" alt="Tutoring App" width="60%" />
+  <img src="https://github.com/Mbuso-ux/Mbuso-ux/blob/main/images/Peer-to-peer-tutoring.avif" alt="Tutoring App" width="60%" />
 </p>
 A native Android app that connects students for peer tutoring in real time. Features:
 - **Tech:** Android Studio • Java • XML • Firebase Auth & Firestore • Gemini AI Chatbot  
