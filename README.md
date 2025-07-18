@@ -181,6 +181,3 @@ I'm a final-year **Bachelor of Information and Communications Technology** stude
 
 ---
 
-<div align="center">
-  <i>⭐ From <a href="https://github.com/Mbuso-ux">Mbuso-ux</a> - Building the future, one line of code at a time!</i>
-</div>
